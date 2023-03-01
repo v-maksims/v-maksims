@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maksims Veiserts</h1>
 <h3 align="center">A passionate web developer from Latvia</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **maksims.veiserts@gmail.com**
 
